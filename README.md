@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 
 
 ## Stats
-<div align="center">
+
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishalqw78&theme=dracula" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalqw78&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</div>
+
 
 ## Articles 
 <a href="https://github-blog-cards.vercel.app/blog?username=vishalqw78&blogname=medium&theme=github_dark"/>
