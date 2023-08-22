@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 
 
 ## Articles 
-<a href="https://github-blog-cards.vercel.app/blog?username=vishalqw78&blogname=medium&theme=github_dark"/>
+<a target="_blank" href="https://github-blog-cards.vercel.app/blog?username=vishalqw78&blogname=medium&theme=github_dark" >
 <img src="https://github-blog-cards.vercel.app/blog?username=vishalqw78&blogname=medium&theme=github_dark"/>
 </a>
